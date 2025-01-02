@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.2",
+    "cypress": "^13.17.0"
+  },
+  "dependencies": {
+    "chai-colors": "^1.0.1"
+  }
+}
